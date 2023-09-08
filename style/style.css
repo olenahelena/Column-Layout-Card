@@ -161,6 +161,9 @@ button:hover {
 
 /* ------------------------------- */
 @media (min-width: 61.9988em) {
+  p {
+    margin-bottom: 5.375rem;
+  }
   .page {
     display: flex;
     align-items: center;
@@ -171,6 +174,7 @@ button:hover {
   }
   [class*=-main-section] {
     max-width: 19.1875rem;
+    max-height: 33.125rem;
   }
   .page__main:first-child {
     margin-top: 0;
