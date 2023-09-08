@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/olenahelena/Column-Layout-Card)
-- Live Site URL: [Add live site URL here](https://elaborate-sable-0e5da3.netlify.app/)
+- Solution URL: (https://github.com/olenahelena/Column-Layout-Card)
+- Live Site URL: (https://elaborate-sable-0e5da3.netlify.app/)
 
 ### Built with
 
